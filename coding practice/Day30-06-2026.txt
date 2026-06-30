@@ -22,4 +22,5 @@ resource "aws_instance" "PathnexEC2" {
   tags = {
     Name = "Pathnex-EC2"}_
 }
+
 }

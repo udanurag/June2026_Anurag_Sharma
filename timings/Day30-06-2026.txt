@@ -1,0 +1,11 @@
+Today's Task
+2 Hours Only session in the Afternoon
+1 Hours -AWS
+2 Hours EC2 install
+1 Houts Git
+
+Tomorrow's Task
+
+Will Study git
+Will check AWS services
+Again create and setup EC2 instance with git

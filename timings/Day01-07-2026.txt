@@ -1,0 +1,8 @@
+#Todays taks
+1. Work on createing EC2 instase.
+2. 1 Hours Coding paractice
+3. 2 Staudy AWS diffecent services
+
+# Tomrrow task
+1. Working on coding practice
+2. Study Ansible and Terraform  		 
